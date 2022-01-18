@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2YkBgxi9jVciG8vJh1JI0bNEBGcHvSyYSwRSIj8s4pX7E3MTThA5c37HUbIpFsLsrHNke/gXEX0Dy6MnDq/pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corre\\source\\repos\\pessoal\\Rabbit\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corre\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\corre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\corre\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
